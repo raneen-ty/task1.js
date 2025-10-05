@@ -1,0 +1,21 @@
+console.log("1:", typeof(100));
+console.log("2:", typeof(73.9));
+console.log("3:", typeof(NaN));
+console.log("4:", typeof("Water"));
+console.log("5:", typeof(false));
+console.log("6:", typeof(9 != 11));
+console.log("7:", "Code" + "Circle");
+console.log("8:", "Code" - "s");
+console.log("9:", "4" + "8");
+console.log("10:", "4" - "8");
+console.log("11:", "name" + 3);
+console.log("12:", "name" - 3);
+console.log("13:", 82 * "word");
+console.log("14:", 1 + "hello");
+console.log("15:", "hello" + 1);
+console.log("16:", 1 + true);
+console.log("17:", "hello" + true);
+console.log("18:", typeof(Infinity));
+console.log("19:", 1 == '1');
+console.log("20:", 1 === '1');
+
